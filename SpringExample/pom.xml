@@ -49,8 +49,8 @@
 </build>
  <distributionManagement>
   <repository>
-    <id>releases</id>
-    <url>http://localhost:8081/nexus/content/repositories/releases</url>
+    <id>nexus-snapshots</id>
+    <url>http://vishnu.com:8081/nexus/content/repositories/snapshots</url>
   </repository>
 </distributionManagement>
 </project>
