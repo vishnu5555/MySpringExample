@@ -47,10 +47,10 @@
         </plugin>
     </plugins>
 </build>
- <distributionManagement>
-  <repository>
-    <id>nexus-snapshots</id>
+<distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
     <url>http://vishnu.com:8081/nexus/content/repositories/snapshots</url>
-  </repository>
+  </snapshotRepository>
 </distributionManagement>
 </project>
