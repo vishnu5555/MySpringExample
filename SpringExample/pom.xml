@@ -47,10 +47,5 @@
         </plugin>
     </plugins>
 </build>
-<distributionManagement>
-  <repository>
-    <id>releases</id>
-    <url>http://vishnu.com:8081/nexus/content/repositories/releases</url>
-  </repository>
-</distributionManagement>
+
 </project>
